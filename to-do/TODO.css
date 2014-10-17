@@ -1,0 +1,72 @@
+
+header{
+    color:#A52A2A;
+	text-align: center;
+	font-size: 35px;
+    font-family: helvetica;
+    background-color: #A9A9A9;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 300px;
+    margin-bottom: 8%;
+
+}
+body{
+    background-image: url("wallpapers_vintage.png");
+    background-size: 100%;
+}
+input[type="text"] {
+    border: 1px solid #000000;
+    height: 30px;
+    width: 50%;
+    line-height: 30px;
+    font-size: 17px;
+    border-radius: 5px;
+    text-align: left;
+    display: block;
+    margin: 0 auto;
+}
+#mensaje {
+    padding: 20px;
+    font-size: 27px;
+    font-family: Garamond;
+    color: #000000;
+    text-align: center;
+    list-style: none;
+
+}
+
+.green  {
+       background-color: #3CB371;
+       background-size: 50px;
+        }
+    
+.boton1{
+display: inline-block;
+margin-left: 25%;
+}
+.boton2{
+display: inline-block;
+margin-left: 27.4%;
+}
+.boton3{
+display: inline-block;
+}
+
+img     {
+        width: 80px;
+        height: 80px;
+        }
+
+li  {
+    margin-bottom: 5px;
+    }
+
+li:hover    {
+            cursor: pointer;
+            }
+
+button:hover    {
+                cursor: pointer;
+                }
